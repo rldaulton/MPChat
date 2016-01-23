@@ -7,3 +7,5 @@ I’ve taken his project and built in Multipeer Connectivity. Two devices are ne
 Muleteer is a framework that allows devices to communicate without any wifi, cellular data, or bluetooth pairing. Signals ‘bounce’ between clients until they meet their target device.
 
 note: photo sharing is not currently supported
+
+![Chat Bubble Preview](https://github.com/rldaulton/MPChat/raw/prod/MPChat.gif)
