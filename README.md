@@ -1,1 +1,9 @@
-Welcome to MPChat. A simple p2p messenger build with multiplier connectivity framework, and interface by Sauvik Dolui’s Github project, “ChatBubble”.
+#MPChat
+
+Welcome to MPChat. A simple p2p messenger build with multipeer, and interface by Sauvik Dolui’s Github project, “ChatBubble”.
+
+I’ve taken his project and built in Multipeer Connectivity. Two devices are needed in order to test this project. You may compile it on your machine while also running it on your iPhone - bluetooth must be enabled on both devices for communication to work between them. 
+
+Muleteer is a framework that allows devices to communicate without any wifi, cellular data, or bluetooth pairing. Signals ‘bounce’ between clients until they meet their target device.
+
+note: photo sharing is not currently supported
