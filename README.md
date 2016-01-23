@@ -1,5 +1,1 @@
-# ChatBubbleFinal
-iOS 6 style chat bubble in swift
-Preview
-
-![Chat Bubble Preview](https://github.com/sauvikatinnofied/ChatBubbleFinal/raw/master/ChatBubbleFinalCompressed.gif)
+Welcome to MPChat. A simple p2p messenger build with multiplier connectivity framework, and interface by Sauvik Dolui’s Github project, “ChatBubble”.
