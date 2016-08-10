@@ -1,6 +1,6 @@
 #MPChat
 
-Welcome to MPChat. A simple p2p messenger build with multipeer and Swift 2.0, with interface by Sauvik Dolui’s Github project, “ChatBubble”.
+Welcome to MPChat. A simple p2p messenger build with multipeer and Swift 2.0, with interface by Sauvik Dolui’s throwback Github project, “ChatBubble”. Retro!
 
 I’ve taken his project and built in Multipeer Connectivity. Two devices are needed in order to test this project. You may compile it on your machine while also running it on your iPhone - bluetooth must be enabled on both devices for communication to work between them. 
 
