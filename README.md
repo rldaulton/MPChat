@@ -1,4 +1,4 @@
-#MPChat
+# MPChat
 
 Welcome to MPChat. A simple p2p messenger build with multipeer and Swift 2.0, with interface by Sauvik Dolui’s throwback Github project, “ChatBubble”. Retro!
 
